@@ -1,0 +1,6 @@
+name: HN-Creative
+main: hi.cr.inv.Main
+version: 1.0
+author: invistek
+commands:
+     rate:
